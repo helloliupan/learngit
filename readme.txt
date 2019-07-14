@@ -9,3 +9,4 @@ Git
 
 
 issue-101 bug fixed.
+merge with fast forward.
